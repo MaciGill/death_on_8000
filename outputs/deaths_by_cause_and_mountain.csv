@@ -1,0 +1,102 @@
+﻿Mountain,cause_category,deaths,is_most_common
+Annapurna I,Altitude illness,1,False
+Annapurna I,Avalanche / serac,41,True
+Annapurna I,Exhaustion,1,False
+Annapurna I,Exposure / cold,2,False
+Annapurna I,Fall,16,False
+Annapurna I,Unknown / unspecified,12,False
+Annapurna I,Violence,1,False
+Broad Peak,Altitude illness,2,False
+Broad Peak,Avalanche / serac,5,False
+Broad Peak,Exhaustion,2,False
+Broad Peak,Fall,14,True
+Broad Peak,Missing / disappeared,9,False
+Broad Peak,Other / unclear,5,False
+Cho Oyu,Altitude illness,14,False
+Cho Oyu,Avalanche / serac,9,False
+Cho Oyu,Exhaustion,1,False
+Cho Oyu,Fall,18,True
+Cho Oyu,Unknown / unspecified,9,False
+Cho Oyu,Violence,1,False
+Dhaulagiri I,Altitude illness,2,False
+Dhaulagiri I,Avalanche / serac,43,True
+Dhaulagiri I,Exhaustion,2,False
+Dhaulagiri I,Exposure / cold,5,False
+Dhaulagiri I,Fall,15,False
+Dhaulagiri I,Illness / medical,1,False
+Dhaulagiri I,Missing / disappeared,12,False
+Dhaulagiri I,Other / unclear,3,False
+Gasherbrum I,Altitude illness,1,False
+Gasherbrum I,Avalanche / serac,10,False
+Gasherbrum I,Fall,11,True
+Gasherbrum I,Illness / medical,1,False
+Gasherbrum I,Missing / disappeared,11,True
+Gasherbrum II,Altitude illness,1,False
+Gasherbrum II,Avalanche / serac,4,False
+Gasherbrum II,Exhaustion,1,False
+Gasherbrum II,Exposure / cold,2,False
+Gasherbrum II,Fall,9,True
+Gasherbrum II,Illness / medical,3,False
+Gasherbrum II,Missing / disappeared,2,False
+Gasherbrum II,Other / unclear,2,False
+K2,Altitude illness,10,False
+K2,Avalanche / serac,24,False
+K2,Exhaustion,3,False
+K2,Exposure / cold,4,False
+K2,Fall,32,True
+K2,Illness / medical,3,False
+K2,Missing / disappeared,4,False
+K2,Other / unclear,9,False
+K2,Unknown / unspecified,7,False
+Kangchenjunga,Altitude illness,5,False
+Kangchenjunga,Avalanche / serac,8,False
+Kangchenjunga,Exhaustion,2,False
+Kangchenjunga,Exposure / cold,2,False
+Kangchenjunga,Fall,31,True
+Kangchenjunga,Other / unclear,5,False
+Kangchenjunga,Unknown / unspecified,6,False
+Lhotse,Altitude illness,5,False
+Lhotse,Avalanche / serac,13,True
+Lhotse,Exhaustion,1,False
+Lhotse,Exposure / cold,1,False
+Lhotse,Fall,12,False
+Lhotse,Unknown / unspecified,1,False
+Makalu,Altitude illness,10,False
+Makalu,Avalanche / serac,2,False
+Makalu,Exhaustion,3,False
+Makalu,Exposure / cold,3,False
+Makalu,Fall,15,True
+Makalu,Illness / medical,1,False
+Makalu,Unknown / unspecified,15,True
+Manaslu,Altitude illness,6,False
+Manaslu,Avalanche / serac,41,True
+Manaslu,Exhaustion,1,False
+Manaslu,Exposure / cold,1,False
+Manaslu,Fall,21,False
+Manaslu,Illness / medical,4,False
+Manaslu,Other / unclear,3,False
+Manaslu,Unknown / unspecified,12,False
+Mount Everest,Altitude illness,35,False
+Mount Everest,Avalanche / serac,94,True
+Mount Everest,Exhaustion,16,False
+Mount Everest,Exposure / cold,37,False
+Mount Everest,Fall,72,False
+Mount Everest,Illness / medical,13,False
+Mount Everest,Missing / disappeared,25,False
+Mount Everest,Other / unclear,19,False
+Mount Everest,Unknown / unspecified,11,False
+Mount Everest,Violence,9,False
+Nanga Parbat,Altitude illness,3,False
+Nanga Parbat,Avalanche / serac,36,True
+Nanga Parbat,Exposure / cold,5,False
+Nanga Parbat,Fall,17,False
+Nanga Parbat,Illness / medical,1,False
+Nanga Parbat,Other / unclear,1,False
+Nanga Parbat,Unknown / unspecified,12,False
+Nanga Parbat,Violence,11,False
+Shishapangma,Altitude illness,3,False
+Shishapangma,Avalanche / serac,15,True
+Shishapangma,Exposure / cold,1,False
+Shishapangma,Fall,7,False
+Shishapangma,Illness / medical,1,False
+Shishapangma,Missing / disappeared,4,False
